@@ -1,0 +1,2 @@
+# pdfcompare
+pdf text comparer
